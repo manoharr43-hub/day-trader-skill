@@ -1,0 +1,17 @@
+Streamlit==1.39.0
+fyers-apiv3==3.1.14
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+plotly==5.22.0
+openpyxl>=3.1.2
+streamlit-autorefresh==1.0.1
+matplotlib==3.8.4
+feedparser
+urllib3>=2.0.0
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
+xgboost>=2.1.0
+yfinance>=0.2.40
+streamlit-paste-button
+scikit-learn
